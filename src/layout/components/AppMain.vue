@@ -21,7 +21,7 @@ console.log(tagsViewStore.cachedViews.toString())
   flex: 1;
   overflow: hidden;
   position: relative;
-  background: var(--color-bg-2);
+  background: var(--color-bg-1);
 }
 .app-main {
   position: absolute;

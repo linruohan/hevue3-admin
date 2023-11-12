@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.hideOnStartup": "always",
+    "workbench.startupEditor": "none"
+}

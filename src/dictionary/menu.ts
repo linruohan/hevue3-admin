@@ -24,6 +24,8 @@ export const menuHideDic: boolRadio & defaultType = {
 }
 Object.defineProperty(menuHideDic, 'trueValue', {
   enumerable: false,
+  // 初始化的时候就可以直接写menuHideDic.default来当初始值啦。但这样写又会有一个问题，那就是在表单渲染的时候会把这个default也渲染上。
+  // 这个问题我们可以给default字段设置不可枚举来解决。
 })
 Object.defineProperty(menuHideDic, 'default', {
   enumerable: false,

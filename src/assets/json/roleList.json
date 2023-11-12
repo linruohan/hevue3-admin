@@ -1,0 +1,26 @@
+{
+    "code": "200",
+    "data": {
+        "list": [
+            {
+                "_id": "6416ebbc207e76b41336538e",
+                "role_name": "超级管理员",
+                "role_code": "admin",
+                "createdAt": "2023-03-19T11:02:20.342Z",
+                "updatedAt": "2023-03-23T07:52:37.658Z",
+                "__v": "0",
+                "role_permission": ""
+            },
+            {
+                "_id": "641c45ee763ac1abc5df234d",
+                "role_name": "测试",
+                "role_permission": "641b004f1eebd89ba2e4b4f1,641b027d1eebd89ba2e4b4f7,641bf1bc587cb819a6075f04,6378bc38709df7310c080b8a,6378bd4a709df7310c080b90,6379eab79c420db812549b8b",
+                "createdAt": "2023-03-23T12:28:30.904Z",
+                "updatedAt": "2023-03-31T05:04:50.786Z",
+                "__v": "0"
+            }
+        ],
+        "total": "2"
+    },
+    "msg": "success"
+}
